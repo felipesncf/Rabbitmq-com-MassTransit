@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B87sYB32DYzXlgh6WLAxkg8kh1vFiSgO1vljAi9a5umn2VSH/KPVRaN47O3aMqpT81NWzhKV/7jwg3+47BUmZg==",
+  "dgSpecHash": "9FqebpY52yUhcjSrnQy3oY2dkD+uEjha+s4lcytnueUP8KJMt9walzeWfxeyc1WOTH8PqcJ9wt5VD6gZVB2IOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq\\Rabbitmq\\app.publisher\\app.publisher.csproj",
+  "projectFilePath": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq-com-MassTransit\\Rabbitmq\\app.publisher\\app.publisher.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\felipe\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
     "C:\\Users\\felipe\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",

@@ -1094,11 +1094,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq\\Rabbitmq\\app.masstransit.consumer\\app.masstransit.consumer.csproj",
+      "projectUniqueName": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq-com-MassTransit\\Rabbitmq\\app.masstransit.consumer\\app.masstransit.consumer.csproj",
       "projectName": "app.masstransit.consumer",
-      "projectPath": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq\\Rabbitmq\\app.masstransit.consumer\\app.masstransit.consumer.csproj",
+      "projectPath": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq-com-MassTransit\\Rabbitmq\\app.masstransit.consumer\\app.masstransit.consumer.csproj",
       "packagesPath": "C:\\Users\\felipe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq\\Rabbitmq\\app.masstransit.consumer\\obj\\",
+      "outputPath": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq-com-MassTransit\\Rabbitmq\\app.masstransit.consumer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",

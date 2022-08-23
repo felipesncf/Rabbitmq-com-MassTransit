@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq\\Rabbitmq\\app.masstransit.publisher\\app.masstransit.publisher.csproj": {}
+    "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq-com-MassTransit\\Rabbitmq\\app.masstransit.publisher\\app.masstransit.publisher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq\\Rabbitmq\\app.masstransit.publisher\\app.masstransit.publisher.csproj": {
+    "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq-com-MassTransit\\Rabbitmq\\app.masstransit.publisher\\app.masstransit.publisher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq\\Rabbitmq\\app.masstransit.publisher\\app.masstransit.publisher.csproj",
+        "projectUniqueName": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq-com-MassTransit\\Rabbitmq\\app.masstransit.publisher\\app.masstransit.publisher.csproj",
         "projectName": "app.masstransit.publisher",
-        "projectPath": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq\\Rabbitmq\\app.masstransit.publisher\\app.masstransit.publisher.csproj",
+        "projectPath": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq-com-MassTransit\\Rabbitmq\\app.masstransit.publisher\\app.masstransit.publisher.csproj",
         "packagesPath": "C:\\Users\\felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq\\Rabbitmq\\app.masstransit.publisher\\obj\\",
+        "outputPath": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq-com-MassTransit\\Rabbitmq\\app.masstransit.publisher\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",

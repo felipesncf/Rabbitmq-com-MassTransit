@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq\\Rabbitmq\\app.consumer\\app.consumer.csproj": {}
+    "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq-com-MassTransit\\Rabbitmq\\app.consumer\\app.consumer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq\\Rabbitmq\\app.consumer\\app.consumer.csproj": {
+    "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq-com-MassTransit\\Rabbitmq\\app.consumer\\app.consumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq\\Rabbitmq\\app.consumer\\app.consumer.csproj",
+        "projectUniqueName": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq-com-MassTransit\\Rabbitmq\\app.consumer\\app.consumer.csproj",
         "projectName": "app.consumer",
-        "projectPath": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq\\Rabbitmq\\app.consumer\\app.consumer.csproj",
+        "projectPath": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq-com-MassTransit\\Rabbitmq\\app.consumer\\app.consumer.csproj",
         "packagesPath": "C:\\Users\\felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq\\Rabbitmq\\app.consumer\\obj\\",
+        "outputPath": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq-com-MassTransit\\Rabbitmq\\app.consumer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",

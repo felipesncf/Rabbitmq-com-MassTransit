@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "X71amEEXx2PfycunkhImARO2LqVwiVN3rW/JOy6/elU=",
+  "Source": "app.masstransit.consumer",
+  "BasePath": "_content/app.masstransit.consumer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

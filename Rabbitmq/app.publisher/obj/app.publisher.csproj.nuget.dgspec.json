@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq\\Rabbitmq\\app.publisher\\app.publisher.csproj": {}
+    "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq-com-MassTransit\\Rabbitmq\\app.publisher\\app.publisher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq\\Rabbitmq\\app.publisher\\app.publisher.csproj": {
+    "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq-com-MassTransit\\Rabbitmq\\app.publisher\\app.publisher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq\\Rabbitmq\\app.publisher\\app.publisher.csproj",
+        "projectUniqueName": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq-com-MassTransit\\Rabbitmq\\app.publisher\\app.publisher.csproj",
         "projectName": "app.publisher",
-        "projectPath": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq\\Rabbitmq\\app.publisher\\app.publisher.csproj",
+        "projectPath": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq-com-MassTransit\\Rabbitmq\\app.publisher\\app.publisher.csproj",
         "packagesPath": "C:\\Users\\felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq\\Rabbitmq\\app.publisher\\obj\\",
+        "outputPath": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq-com-MassTransit\\Rabbitmq\\app.publisher\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",

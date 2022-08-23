@@ -1,7 +1,11 @@
 ﻿using MassTransit;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
 using Shared.Model;
+using System.Dynamic;
+using System.Text.Json.Nodes;
 
 namespace app.masstransit.publisher.Controllers
 {
@@ -16,14 +20,15 @@ namespace app.masstransit.publisher.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> CreateTicket(Ticket ticket)
-        { 
+        public async Task<IActionResult> CreateTicket([FromBody] JsonObject ticket)
+        {
+            //var tickect2 = JsonConvert.DeserializeObject(ticket.ToJsonString(), typeof (Ticket));
             if (ticket != null)
             {
-                ticket.Booked = DateTime.Now;
                 Uri uri = new Uri("rabbitmq://localhost/orderTicketQueue");
                 var endPoint = await _bus.GetSendEndpoint(uri);
-                await endPoint.Send(ticket);
+                //JsonConvert.DeserializeObject<ExpandoObject>(param.ToJsonString(), new ExpandoObjectConverter());
+                await endPoint.Send(JsonConvert.DeserializeObject(ticket.ToJsonString(), typeof(Ticket)));
                 return Ok();
             }
             return BadRequest();

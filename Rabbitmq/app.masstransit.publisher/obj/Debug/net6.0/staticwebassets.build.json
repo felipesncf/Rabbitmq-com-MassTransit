@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cPnF5q41YmV4Bhu88PGw7UIRMBE2FIynXGBCWeJYfBo=",
+  "Source": "app.masstransit.publisher",
+  "BasePath": "_content/app.masstransit.publisher",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

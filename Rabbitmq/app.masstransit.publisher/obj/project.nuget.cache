@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CaNxY7vGGnjgaIhFjABiF1G8vJzCS9VOEMEvfvIeocwd0quJcx5ewRR1wup18G0+tiY0h2MA2Kr/+hRkseUPTQ==",
+  "dgSpecHash": "FgfR0h203jleUbLTegUsWMWdz8kyymOAbuKk5pXr8kqQ0Ckng/nW8/PkzDfSzyxisn8YxhevZpE0FSyXxeNLdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq\\Rabbitmq\\app.masstransit.publisher\\app.masstransit.publisher.csproj",
+  "projectFilePath": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq-com-MassTransit\\Rabbitmq\\app.masstransit.publisher\\app.masstransit.publisher.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\felipe\\.nuget\\packages\\automatonymous\\5.1.3\\automatonymous.5.1.3.nupkg.sha512",
     "C:\\Users\\felipe\\.nuget\\packages\\greenpipes\\4.0.1\\greenpipes.4.0.1.nupkg.sha512",
