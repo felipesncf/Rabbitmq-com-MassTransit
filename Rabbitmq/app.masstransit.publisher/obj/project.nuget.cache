@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "dgSpecHash": "CaNxY7vGGnjgaIhFjABiF1G8vJzCS9VOEMEvfvIeocwd0quJcx5ewRR1wup18G0+tiY0h2MA2Kr/+hRkseUPTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felipe\\Documents\\ProjetosGrupoRecursos\\Rabbitmq\\Rabbitmq\\app.masstransit.publisher\\app.masstransit.publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felipe\\.nuget\\packages\\automatonymous\\5.1.3\\automatonymous.5.1.3.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\greenpipes\\4.0.1\\greenpipes.4.0.1.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\masstransit\\7.3.1\\masstransit.7.3.1.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\masstransit.aspnetcore\\7.3.1\\masstransit.aspnetcore.7.3.1.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\masstransit.extensions.dependencyinjection\\7.3.1\\masstransit.extensions.dependencyinjection.7.3.1.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\masstransit.rabbitmq\\7.3.1\\masstransit.rabbitmq.7.3.1.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.18\\microsoft.extensions.configuration.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.18\\microsoft.extensions.dependencyinjection.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks\\3.1.18\\microsoft.extensions.diagnostics.healthchecks.3.1.18.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks.abstractions\\3.1.18\\microsoft.extensions.diagnostics.healthchecks.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.18\\microsoft.extensions.fileproviders.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.1.18\\microsoft.extensions.hosting.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.18\\microsoft.extensions.logging.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\microsoft.extensions.options\\3.1.18\\microsoft.extensions.options.3.1.18.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.18\\microsoft.extensions.primitives.3.1.18.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\newid\\3.0.3\\newid.3.0.3.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\felipe\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://gruporecursos.app.br:8550/api.nuget.server.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "app.publisher", "app.publisher\app.publisher.csproj", "{FA5FF646-A95D-4778-9BCE-39DEF50DD38B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "app.consumer", "app.consumer\app.consumer.csproj", "{F1914420-05CF-4BCC-ABCA-1DB4F05DDF50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.masstransit.publisher", "app.masstransit.publisher\app.masstransit.publisher.csproj", "{7F8740B9-701C-4CF2-BA99-E45420EBBBA8}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Shared.Model", "Shared.Model\Shared.Model.shproj", "{723B7557-8C6E-403E-87B1-1BF2A357E99D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.masstransit.consumer", "app.masstransit.consumer\app.masstransit.consumer.csproj", "{7E744B29-BD46-460C-9182-99101368E604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA5FF646-A95D-4778-9BCE-39DEF50DD38B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5FF646-A95D-4778-9BCE-39DEF50DD38B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5FF646-A95D-4778-9BCE-39DEF50DD38B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5FF646-A95D-4778-9BCE-39DEF50DD38B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1914420-05CF-4BCC-ABCA-1DB4F05DDF50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1914420-05CF-4BCC-ABCA-1DB4F05DDF50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1914420-05CF-4BCC-ABCA-1DB4F05DDF50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1914420-05CF-4BCC-ABCA-1DB4F05DDF50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F8740B9-701C-4CF2-BA99-E45420EBBBA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F8740B9-701C-4CF2-BA99-E45420EBBBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F8740B9-701C-4CF2-BA99-E45420EBBBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F8740B9-701C-4CF2-BA99-E45420EBBBA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E744B29-BD46-460C-9182-99101368E604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E744B29-BD46-460C-9182-99101368E604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E744B29-BD46-460C-9182-99101368E604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E744B29-BD46-460C-9182-99101368E604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEDA2532-04DC-4038-86C2-11536FD36F7C}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Shared.Model\Shared.Model.projitems*{723b7557-8c6e-403e-87b1-1bf2a357e99d}*SharedItemsImports = 13
+		Shared.Model\Shared.Model.projitems*{7e744b29-bd46-460c-9182-99101368e604}*SharedItemsImports = 5
+		Shared.Model\Shared.Model.projitems*{7f8740b9-701c-4cf2-ba99-e45420ebbba8}*SharedItemsImports = 5
+	EndGlobalSection
+EndGlobal
